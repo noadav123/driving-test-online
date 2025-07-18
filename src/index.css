@@ -1,0 +1,65 @@
+.questionNumber{
+    text-align: right;
+    color: hsl(274, 100%, 0%);
+}
+.root{
+    text-align: right;
+    color: hsl(208, 88%, 45%);
+}
+ .div1{
+    text-align: right;
+    color: rgb(247, 246, 248);
+    background-color: hsl(208, 81%, 70%);
+    border: 2px solid hsl(0, 90%, 0%);
+
+ }
+ .question{
+ font-size: 2em;
+ }
+ .listItem{
+    text-align: right;
+    font-size: 1.4em;
+    
+ }
+ .passed{
+  text-align: right;
+   font: 7em calibri;
+ }
+ .end{
+   text-align: right;
+    font-size: 3em;
+ }
+ .submitTest{
+    font-size: 2cap;
+  color: rgb(253, 253, 255);
+  background-color: rgb(90, 58, 170);
+  padding: 0.5cm;
+  border-radius: 8px;
+
+ }
+.listItem:hover {
+  color: rgb(118, 120, 121);
+  cursor: pointer;
+}
+.div1{
+  font: 1em calibri;
+}
+body{
+  background-color: hsl(154, 31%, 70%);
+}
+.endScreen{
+  font: 1em calibri;
+  text-align: right;
+}
+.button1{
+  font-size: 2cap;
+  color: rgb(253, 253, 255);
+  background-color: rgb(45, 4, 149);
+  padding: 0.5cm;
+  border-radius: 8px;
+}
+.App{
+    background-color: rgb(45, 4, 149);
+    text-align: right;
+
+}
